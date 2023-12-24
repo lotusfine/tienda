@@ -1,0 +1,21 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+#scene-container {
+  width: 100vw;
+  height: 100vh;
+  display: block;
+}
+
+.etiqueta-modelo {
+  display: block;
+  position: absolute;
+  color: #237ca0;
+  padding: 5px;
+  border-radius: 3px;
+  font-family: 'Kalnia', serif;
+  font-size: 50px;
+}
